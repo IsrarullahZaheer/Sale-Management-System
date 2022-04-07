@@ -1,0 +1,42 @@
+.tableHeader>tr>th {
+    font-size: medium;
+
+}
+
+.dataTables_filter {
+    visibility: hidden;
+}
+
+.pashtofont {
+    font-family: 'MyPashtoFont';
+}
+
+.form-control::-webkit-input-placeholder {
+    font-size: 18px;
+    font-family: 'MyPashtoFont';
+}
+
+.form-control:-moz-placeholder {
+    font-size: 18px;
+}
+
+.form-control::-moz-placeholder {
+    font-size: 18px;
+}
+
+.form-control:-ms-input-placeholder {
+    font-size: 18px;
+}
+
+.form-control::-ms-input-placeholder {
+    font-size: 18px;
+}
+
+input[type='hidden'] {
+    display: none;
+}
+
+.myfont {
+    font-size: 18px;
+
+}
